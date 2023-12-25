@@ -1,6 +1,4 @@
 bucket_name = "tommybuc111"
-access_key = "AKIAT22GJ4PVFCD6JENN"
-secret_key = "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"
 
 vpc_cidr             = "10.0.0.0/16"
 vpc_name             = "dev-proj-us-east-vpc-1"

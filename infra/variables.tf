@@ -13,12 +13,12 @@ variable "environment" {
   description = "Environment name"
 }
 
-variable "access_key" {
+# variable "access_key" {
   
-}
-variable "secret_key" {
+# }
+# variable "secret_key" {
   
-}
+# }
 variable "vpc_cidr" {
   type        = string
   description = "Public Subnet CIDR values"
